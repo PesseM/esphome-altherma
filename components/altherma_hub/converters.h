@@ -6,6 +6,9 @@
 
 #include "labeldef.h"
 
+namespace esphome {
+namespace altherma_hub {
+
 class Converter
 {
 public:
@@ -710,3 +713,6 @@ private:
         return static_cast<short>(unsignedValue);
     }
 };
+
+}  // namespace altherma_hub
+}  // namespace esphome
