@@ -5,7 +5,6 @@
 #include "converters.h"
 #include <cstdarg>
 #include <cstdio>
-LabelDef labelDefs[] = {};
 
 //namespace espaltherma {
 
