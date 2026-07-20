@@ -2,6 +2,7 @@
 #include "esphome/core/log.h"
 #include "mock_uart.h"
 #include "labeldef.h"
+#include "lib/converters.h"
 #include <cstdarg>
 #include <cstdio>
 LabelDef labelDefs[] = {};
